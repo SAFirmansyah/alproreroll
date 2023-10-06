@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+void main(){
+    int age = 19;
+    int height;
+    height = 177;
+    printf("My name is Satria, I am %i years old and I am %i cm tall\n", age, height);
+    printf("Man that's some confidence");
+}
