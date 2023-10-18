@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+void main(){
+    char name[20], email[30];
+    printf("Your name: "); fgets (name, sizeof(name), stdin);
+    printf("Your e-mail: "); fgets (email, sizeof(email), stdin);
+    printf("Your name is %s\n", name);
+    printf("Your e-mail is %s", email);
+}
