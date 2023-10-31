@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-void main(){
-    const int S = 40;
-    const char fairlady = 'Z';
-    printf ("THIS IS FAIRLADY %c\n", fairlady);
-    printf("THE LEGENDARY NISSAN S%i", S);
-}

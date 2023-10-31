@@ -1,8 +1,0 @@
-#include <stdio.h>
-#define CAR 'Z'
-#define AGE 40
-
-void main(){
-    printf ("THIS IS FAIRLADY %c\n", CAR);
-    printf("THE LEGENDARY NISSAN S%i", AGE);
-}

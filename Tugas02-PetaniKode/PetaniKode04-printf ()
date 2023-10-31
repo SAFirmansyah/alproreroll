@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-void main(){
-    printf("Samlekommm\n");
-    printf("Halo dunia\n");
-    printf("Suhu hari ini adalah %d derajat Celsius", 35);
-}
