@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-void main(){
-    char name[20], home[20];
-    printf("Your name: "); gets (name);
-    printf("Your home: "); gets (home);
-    printf("Your name is %s\n", name);
-    printf("You currently live in %s", home);
-}
