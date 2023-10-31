@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+void main(){
+    int a,b;
+    
+    printf("Input Nilai A: "); scanf("%d", &a);
+    printf("Input Nilai B: ");scanf ("%d", &b);
+    
+    printf("Hasil A + B = %d\n", a+b);
+    printf("Hasil A x B = %d\n", a*b);
+    printf("Hasil A - B = %d\n", a-b);
+    printf("Hasil A : B = %d\n", a/b);
+    printf("Hasil A mod B = %d\n", a%b);
+}
