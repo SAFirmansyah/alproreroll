@@ -18,7 +18,7 @@ axes.prop_cycle    : cycler(color=['1f77b4', 'd62728', '2ca02c', 'ff7f0e', '9467
 
 # Tick properties
 # x-axis
-xtick.top          : True
+xtick.top          : False
 xtick.direction    : in
 xtick.major.size   : 9
 xtick.major.width  : 2
@@ -29,7 +29,7 @@ xtick.minor.width  : 2
 xtick.minor.pad    : 4
 
 # y-axis
-ytick.right        : True
+ytick.right        : False
 ytick.direction    : in
 ytick.major.size   : 9
 ytick.major.width  : 2
